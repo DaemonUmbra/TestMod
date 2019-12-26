@@ -1,0 +1,10 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2019-12-26 14:50:04 -0500",
+      "minecraft:wooded_mountains": "2019-12-26 14:49:54 -0500"
+    },
+    "done": false
+  },
+  "DataVersion": 1976
+}
