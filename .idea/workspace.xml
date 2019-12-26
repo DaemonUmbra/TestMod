@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94188728-58a9-4168-8e58-b5f306e81344" name="Default Changelist" comment="" />
+    <list default="true" id="94188728-58a9-4168-8e58-b5f306e81344" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +67,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
   <component name="RunManager" selected="Application.runClient">
@@ -116,37 +120,65 @@
       <option name="presentableId" value="Default" />
       <updated>1577387843156</updated>
     </task>
+    <task id="LOCAL-00001" summary="updating forge">
+      <created>1577394723107</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577394723107</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updating forge" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating forge" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="1437" y="349" key="#runClient" timestamp="1577390198190">
+    <state x="1437" y="349" key="#runClient" timestamp="1577394963531">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1437" y="349" key="#runClient/0.0.3440.1400@0.0.3440.1400" timestamp="1577390198190" />
-    <state width="3397" height="401" key="GridCell.Tab.0.bottom" timestamp="1577390269561">
+    <state x="1437" y="349" key="#runClient/0.0.3440.1400@0.0.3440.1400" timestamp="1577394963531" />
+    <state x="1155" y="295" key="CommitChangelistDialog2" timestamp="1577394699685">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="3397" height="401" key="GridCell.Tab.0.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1577390269561" />
-    <state width="3397" height="401" key="GridCell.Tab.0.center" timestamp="1577390269560">
+    <state x="1155" y="295" key="CommitChangelistDialog2/0.0.3440.1400@0.0.3440.1400" timestamp="1577394699685" />
+    <state width="3397" height="401" key="GridCell.Tab.0.bottom" timestamp="1577394973393">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="3397" height="401" key="GridCell.Tab.0.center/0.0.3440.1400@0.0.3440.1400" timestamp="1577390269560" />
-    <state width="3397" height="401" key="GridCell.Tab.0.left" timestamp="1577390269560">
+    <state width="3397" height="401" key="GridCell.Tab.0.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1577394973393" />
+    <state width="3397" height="401" key="GridCell.Tab.0.center" timestamp="1577394973393">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="3397" height="401" key="GridCell.Tab.0.left/0.0.3440.1400@0.0.3440.1400" timestamp="1577390269560" />
-    <state width="3397" height="401" key="GridCell.Tab.0.right" timestamp="1577390269560">
+    <state width="3397" height="401" key="GridCell.Tab.0.center/0.0.3440.1400@0.0.3440.1400" timestamp="1577394973393" />
+    <state width="3397" height="401" key="GridCell.Tab.0.left" timestamp="1577394973393">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="3397" height="401" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1577390269560" />
-    <state x="1221" y="343" key="SettingsEditor" timestamp="1577394399999">
+    <state width="3397" height="401" key="GridCell.Tab.0.left/0.0.3440.1400@0.0.3440.1400" timestamp="1577394973393" />
+    <state width="3397" height="401" key="GridCell.Tab.0.right" timestamp="1577394973393">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1221" y="343" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1577394399999" />
+    <state width="3397" height="401" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1577394973393" />
+    <state x="1221" y="343" key="SettingsEditor" timestamp="1577394949099">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1221" y="343" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1577394949099" />
+    <state x="1312" y="434" key="Vcs.Push.Dialog.v2" timestamp="1577394774967">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1312" y="434" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1577394774967" />
     <state x="1416" y="525" key="com.intellij.ide.util.TipDialog" timestamp="1577394660062">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1416" y="525" key="com.intellij.ide.util.TipDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1577394660062" />
+    <state x="1549" y="565" key="git4idea.rebase.GitRebaseDialog" timestamp="1577394889954">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1549" y="565" key="git4idea.rebase.GitRebaseDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1577394889954" />
+    <state x="1534" y="595" key="git4idea.ui.GitResetDialog" timestamp="1577394852491">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1534" y="595" key="git4idea.ui.GitResetDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1577394852491" />
     <state x="1383" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1577394238655">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
