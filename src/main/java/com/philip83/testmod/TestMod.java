@@ -2,6 +2,7 @@ package com.philip83.testmod;
 
 import com.philip83.testmod.blocks.FirstBlock;
 import com.philip83.testmod.blocks.ModBlocks;
+import com.philip83.testmod.items.FirstItem;
 import com.philip83.testmod.setup.ClientProxy;
 import com.philip83.testmod.setup.IProxy;
 import com.philip83.testmod.setup.ModSetup;
@@ -63,6 +64,7 @@ public class TestMod {
             Item.Properties properties = new Item.Properties()
                     .group(setup.itemGroup);
             event.getRegistry().register(new BlockItem(ModBlocks.FIRSTBLOCK, properties).setRegistryName("firstblock"));
+            event.getRegistry().register(new FirstItem());
         }
     }
 }
