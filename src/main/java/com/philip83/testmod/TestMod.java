@@ -4,6 +4,7 @@ import com.philip83.testmod.blocks.FirstBlock;
 import com.philip83.testmod.blocks.ModBlocks;
 import com.philip83.testmod.setup.ClientProxy;
 import com.philip83.testmod.setup.IProxy;
+import com.philip83.testmod.setup.ModSetup;
 import com.philip83.testmod.setup.ServerProxy;
 import net.minecraft.block.Block;
 import net.minecraft.block.Blocks;
@@ -32,6 +33,8 @@ public class TestMod {
 
     public static IProxy proxy = DistExecutor.runForDist(() -> () -> new ClientProxy(), () -> () -> new ServerProxy());
 
+    public static ModSetup setup = new ModSetup();
+
     private static final Logger LOGGER = LogManager.getLogger();
 
     public TestMod() {
@@ -41,7 +44,8 @@ public class TestMod {
     }
 
     private void setup(final FMLCommonSetupEvent event){
-
+        setup.init();
+        proxy.init();
     }
 
 
@@ -56,7 +60,9 @@ public class TestMod {
         }
         @SubscribeEvent
         public static void onItemsRegistry(final RegistryEvent.Register<Item> event) {
-            event.getRegistry().register(new BlockItem(ModBlocks.FIRSTBLOCK, new Item.Properties()).setRegistryName("firstblock"));
+            Item.Properties properties = new Item.Properties()
+                    .group(setup.itemGroup);
+            event.getRegistry().register(new BlockItem(ModBlocks.FIRSTBLOCK, properties).setRegistryName("firstblock"));
         }
     }
 }
