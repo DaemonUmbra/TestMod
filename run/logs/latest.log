@@ -1,17 +1,17 @@
-[26Dec2019 18:08:16.730] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmluserdevclient, --fml.mcpVersion, 20190829.143755, --fml.mcVersion, 1.14.4, --fml.forgeGroup, net.minecraftforge, --fml.forgeVersion, 28.1.109, --version, MOD_DEV, --assetIndex, 1.14, --assetsDir, C:\Users\phili\.gradle\caches\forge_gradle\assets, --username, Dev, --accessToken, ❄❄❄❄❄❄❄❄, --userProperties, {}]
-[26Dec2019 18:08:16.734] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 4.1.0+62+5bfa59b starting: java version 1.8.0_231 by Oracle Corporation
-[26Dec2019 18:08:17.182] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[26Dec2019 18:08:17.972] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmluserdevclient' with arguments [--version, MOD_DEV, --gameDir, ., --assetsDir, C:\Users\phili\.gradle\caches\forge_gradle\assets, --assetIndex, 1.14, --username, Dev, --accessToken, ❄❄❄❄❄❄❄❄, --userProperties, {}]
-[26Dec2019 18:08:19.425] [Client thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: Dev
-[26Dec2019 18:08:27.468] [Client thread/WARN] [net.minecraft.client.GameSettings/]: Skipping bad option: lastServer:
-[26Dec2019 18:08:27.495] [Client thread/INFO] [net.minecraft.client.Minecraft/]: LWJGL Version: 3.2.2 build 10
-[26Dec2019 18:08:28.218] [modloading-worker-9/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 28.1.109, for MC 1.14.4 with MCP 20190829.143755
-[26Dec2019 18:08:28.218] [modloading-worker-9/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v28.1.109 Initialized
-[26Dec2019 18:08:30.571] [Client thread/INFO] [com.mojang.text2speech.NarratorWindows/]: Narrator library for x64 successfully loaded
-[26Dec2019 18:08:30.737] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[26Dec2019 18:08:31.013] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 28.1.109 Target: null
-[26Dec2019 18:08:31.013] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [testmod] Starting version check at http://myurl.me/
-[26Dec2019 18:08:31.356] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[26Dec2019 19:27:07.514] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmluserdevclient, --fml.mcpVersion, 20190829.143755, --fml.mcVersion, 1.14.4, --fml.forgeGroup, net.minecraftforge, --fml.forgeVersion, 28.1.109, --version, MOD_DEV, --assetIndex, 1.14, --assetsDir, C:\Users\phili\.gradle\caches\forge_gradle\assets, --username, Dev, --accessToken, ❄❄❄❄❄❄❄❄, --userProperties, {}]
+[26Dec2019 19:27:07.517] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 4.1.0+62+5bfa59b starting: java version 1.8.0_231 by Oracle Corporation
+[26Dec2019 19:27:07.984] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[26Dec2019 19:27:08.722] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmluserdevclient' with arguments [--version, MOD_DEV, --gameDir, ., --assetsDir, C:\Users\phili\.gradle\caches\forge_gradle\assets, --assetIndex, 1.14, --username, Dev, --accessToken, ❄❄❄❄❄❄❄❄, --userProperties, {}]
+[26Dec2019 19:27:10.249] [Client thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: Dev
+[26Dec2019 19:27:18.314] [Client thread/WARN] [net.minecraft.client.GameSettings/]: Skipping bad option: lastServer:
+[26Dec2019 19:27:18.342] [Client thread/INFO] [net.minecraft.client.Minecraft/]: LWJGL Version: 3.2.2 build 10
+[26Dec2019 19:27:19.083] [modloading-worker-9/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 28.1.109, for MC 1.14.4 with MCP 20190829.143755
+[26Dec2019 19:27:19.083] [modloading-worker-9/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v28.1.109 Initialized
+[26Dec2019 19:27:20.514] [Client thread/INFO] [com.mojang.text2speech.NarratorWindows/]: Narrator library for x64 successfully loaded
+[26Dec2019 19:27:20.675] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[26Dec2019 19:27:20.926] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 28.1.109 Target: null
+[26Dec2019 19:27:20.926] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [testmod] Starting version check at http://myurl.me/
+[26Dec2019 19:27:22.716] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 java.io.IOException: Server returned HTTP response code: 400 for URL: http://myurl.me/
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_231]
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_231]
@@ -33,45 +33,47 @@ Caused by: java.io.IOException: Server returned HTTP response code: 400 for URL:
 	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480) ~[?:1.8.0_231]
 	at net.minecraftforge.fml.VersionChecker$1.openUrlStream(VersionChecker.java:173) ~[?:?]
 	... 3 more
-[26Dec2019 18:08:34.094] [Client thread/WARN] [net.minecraft.client.GameSettings/]: Skipping bad option: lastServer:
-[26Dec2019 18:08:34.163] [Client thread/INFO] [net.minecraft.client.audio.SoundSystem/]: OpenAL initialized.
-[26Dec2019 18:08:34.163] [Client thread/INFO] [net.minecraft.client.audio.SoundEngine/SOUNDS]: Sound engine started
-[26Dec2019 18:08:34.283] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x512 textures-atlas
-[26Dec2019 18:08:34.677] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256 textures/particle-atlas
-[26Dec2019 18:08:34.678] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256 textures/painting-atlas
-[26Dec2019 18:08:34.678] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 128x128 textures/mob_effect-atlas
-[26Dec2019 18:08:35.062] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient/]: Could not authorize you against Realms server: Invalid session id
-[26Dec2019 18:08:39.529] [Client thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[26Dec2019 18:08:39.529] [Client thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[26Dec2019 18:08:39.530] [Client thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[26Dec2019 18:08:39.530] [Client thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[26Dec2019 18:08:39.531] [Client thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[26Dec2019 18:08:39.634] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Starting integrated minecraft server version 1.14.4
-[26Dec2019 18:08:39.634] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Generating keypair
-[26Dec2019 18:08:39.768] [Server thread/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: Injecting existing registry data into this SERVER instance
-[26Dec2019 18:08:39.871] [Server thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.14.4-28.1.109_mapped_snapshot_20190719-1.14.3.jar, main
-[26Dec2019 18:08:40.441] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 6 recipes
-[26Dec2019 18:08:42.113] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 811 advancements
-[26Dec2019 18:08:42.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[26Dec2019 18:08:42.977] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[26Dec2019 18:08:42.977] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[26Dec2019 18:08:44.362] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
-[26Dec2019 18:08:44.362] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
-[26Dec2019 18:08:44.462] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 91%
-[26Dec2019 18:08:44.947] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 91%
-[26Dec2019 18:08:45.449] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 97%
-[26Dec2019 18:08:45.548] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 3106 ms
-[26Dec2019 18:08:45.758] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[26Dec2019 18:08:45.758] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[26Dec2019 18:08:46.884] [Netty Local Client IO #0/INFO] [net.minecraftforge.fml.network.NetworkHooks/]: Connected to a modded server.
-[26Dec2019 18:08:47.029] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dev[local:E:56d8c534] logged in with entity id 217 at (-98.69999998807907, 70.0, 175.00429166686962)
-[26Dec2019 18:08:47.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev joined the game
-[26Dec2019 18:08:47.055] [Client thread/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
-[26Dec2019 18:08:47.823] [Server thread/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
-[26Dec2019 18:08:47.823] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
-[26Dec2019 18:08:47.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'New World'/minecraft:overworld
-[26Dec2019 18:08:47.982] [Client thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 32 advancements
-[26Dec2019 18:08:48.397] [pool-3-thread-1/WARN] [com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService/]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@74e96f8e[id=380df991-f603-344c-a090-369bad2a924a,name=Dev,properties={},legacy=false]
+[26Dec2019 19:27:23.586] [Server-Worker-4/WARN] [net.minecraft.client.renderer.model.ModelBakery/]: Exception loading blockstate definition: 'testmod:blockstates/generator.json' missing model for variant: 'testmod:generator#facing=down,powered=true'
+[26Dec2019 19:27:23.586] [Server-Worker-4/WARN] [net.minecraft.client.renderer.model.ModelBakery/]: Exception loading blockstate definition: 'testmod:blockstates/generator.json' missing model for variant: 'testmod:generator#facing=down,powered=false'
+[26Dec2019 19:27:24.719] [Client thread/WARN] [net.minecraft.client.GameSettings/]: Skipping bad option: lastServer:
+[26Dec2019 19:27:24.809] [Client thread/INFO] [net.minecraft.client.audio.SoundSystem/]: OpenAL initialized.
+[26Dec2019 19:27:24.809] [Client thread/INFO] [net.minecraft.client.audio.SoundEngine/SOUNDS]: Sound engine started
+[26Dec2019 19:27:24.944] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x512 textures-atlas
+[26Dec2019 19:27:25.348] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256 textures/particle-atlas
+[26Dec2019 19:27:25.349] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256 textures/painting-atlas
+[26Dec2019 19:27:25.349] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 128x128 textures/mob_effect-atlas
+[26Dec2019 19:27:25.685] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient/]: Could not authorize you against Realms server: Invalid session id
+[26Dec2019 19:27:30.453] [Client thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[26Dec2019 19:27:30.453] [Client thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[26Dec2019 19:27:30.454] [Client thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[26Dec2019 19:27:30.454] [Client thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[26Dec2019 19:27:30.455] [Client thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[26Dec2019 19:27:30.558] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Starting integrated minecraft server version 1.14.4
+[26Dec2019 19:27:30.558] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Generating keypair
+[26Dec2019 19:27:30.675] [Server thread/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: Injecting existing registry data into this SERVER instance
+[26Dec2019 19:27:30.789] [Server thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.14.4-28.1.109_mapped_snapshot_20190719-1.14.3.jar, main
+[26Dec2019 19:27:31.655] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 6 recipes
+[26Dec2019 19:27:32.455] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 811 advancements
+[26Dec2019 19:27:32.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[26Dec2019 19:27:33.300] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[26Dec2019 19:27:33.300] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[26Dec2019 19:27:34.887] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[26Dec2019 19:27:34.887] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[26Dec2019 19:27:34.887] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[26Dec2019 19:27:35.304] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 91%
+[26Dec2019 19:27:35.821] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 94%
+[26Dec2019 19:27:36.039] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 3239 ms
+[26Dec2019 19:27:36.260] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[26Dec2019 19:27:36.260] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[26Dec2019 19:27:37.878] [Netty Local Client IO #0/INFO] [net.minecraftforge.fml.network.NetworkHooks/]: Connected to a modded server.
+[26Dec2019 19:27:38.012] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dev[local:E:6e876501] logged in with entity id 220 at (-95.45922869925103, 73.11813573259002, 174.02439764528276)
+[26Dec2019 19:27:38.028] [Client thread/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[26Dec2019 19:27:38.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev joined the game
+[26Dec2019 19:27:38.312] [Server thread/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[26Dec2019 19:27:38.319] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[26Dec2019 19:27:38.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'New World'/minecraft:overworld
+[26Dec2019 19:27:38.466] [Client thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 40 advancements
+[26Dec2019 19:27:38.798] [pool-3-thread-1/WARN] [com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService/]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@1fb68050[id=380df991-f603-344c-a090-369bad2a924a,name=Dev,properties={},legacy=false]
 com.mojang.authlib.exceptions.AuthenticationException: The client has sent too many requests within a certain amount of time
 	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:79) ~[authlib-1.5.25.jar:?]
 	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillGameProfile(YggdrasilMinecraftSessionService.java:180) ~[authlib-1.5.25.jar:?]
@@ -93,16 +95,17 @@ com.mojang.authlib.exceptions.AuthenticationException: The client has sent too m
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_231]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_231]
 	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_231]
-[26Dec2019 18:08:55.132] [Client thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 40 advancements
-[26Dec2019 18:09:19.374] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
-[26Dec2019 18:09:19.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'New World'/minecraft:overworld
-[26Dec2019 18:09:20.445] [Client thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
-[26Dec2019 18:09:20.482] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dev lost connection: Disconnected
-[26Dec2019 18:09:20.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev left the game
-[26Dec2019 18:09:20.489] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Stopping singleplayer server as player logged out
-[26Dec2019 18:09:20.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[26Dec2019 18:09:20.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[26Dec2019 18:09:20.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[26Dec2019 18:09:20.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'New World'/minecraft:overworld
-[26Dec2019 18:09:20.747] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (New World): All chunks are saved
-[26Dec2019 18:09:20.755] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[26Dec2019 19:27:41.402] [Client thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: testmod:generator @ BlockPos{x=-99, y=69, z=173}
+[26Dec2019 19:27:41.427] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: testmod:generator @ BlockPos{x=-99, y=69, z=173}
+[26Dec2019 19:27:48.518] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[26Dec2019 19:27:48.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'New World'/minecraft:overworld
+[26Dec2019 19:28:11.003] [Client thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
+[26Dec2019 19:28:11.073] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dev lost connection: Disconnected
+[26Dec2019 19:28:11.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev left the game
+[26Dec2019 19:28:11.081] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Stopping singleplayer server as player logged out
+[26Dec2019 19:28:11.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[26Dec2019 19:28:11.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[26Dec2019 19:28:11.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[26Dec2019 19:28:11.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'New World'/minecraft:overworld
+[26Dec2019 19:28:11.328] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[26Dec2019 19:28:11.335] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (New World): All chunks are saved

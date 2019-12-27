@@ -1,5 +1,9 @@
 {
   "block.testmod.firstblock" : "First Block",
+  "block.testmod.generator": "Generator",
+
+
+
   "item.testmod.firstitem": "First Item",
 
   "_comment" : "Creative Tabs",

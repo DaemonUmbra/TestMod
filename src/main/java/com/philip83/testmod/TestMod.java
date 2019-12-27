@@ -1,6 +1,8 @@
 package com.philip83.testmod;
 
 import com.philip83.testmod.blocks.FirstBlock;
+import com.philip83.testmod.blocks.Generator;
+import com.philip83.testmod.blocks.GeneratorTile;
 import com.philip83.testmod.blocks.ModBlocks;
 import com.philip83.testmod.items.FirstItem;
 import com.philip83.testmod.setup.ClientProxy;
@@ -11,6 +13,7 @@ import net.minecraft.block.Block;
 import net.minecraft.block.Blocks;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
+import net.minecraft.tileentity.TileEntityType;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.RegistryEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
@@ -58,13 +61,20 @@ public class TestMod {
         @SubscribeEvent
         public static void onBlocksRegistry(final RegistryEvent.Register<Block> event) {
             event.getRegistry().register(new FirstBlock());
+            event.getRegistry().register(new Generator());
         }
         @SubscribeEvent
         public static void onItemsRegistry(final RegistryEvent.Register<Item> event) {
             Item.Properties properties = new Item.Properties()
                     .group(setup.itemGroup);
             event.getRegistry().register(new BlockItem(ModBlocks.FIRSTBLOCK, properties).setRegistryName("firstblock"));
+            event.getRegistry().register(new BlockItem(ModBlocks.GENERATOR, properties).setRegistryName("generator"));
+
+
             event.getRegistry().register(new FirstItem());
         }
+        @SubscribeEvent
+        public static void onTileEntityRegistry(final RegistryEvent.Register<TileEntityType<?>> event){
+            event.getRegistry().register(TileEntityType.Builder.create(GeneratorTile::new, ModBlocks.FIRSTBLOCK).build(null).setRegistryName("generator"));        }
     }
 }
